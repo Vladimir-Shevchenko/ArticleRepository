@@ -7,13 +7,13 @@ Create and publish an API in SpringBoot.
 
 1. Create a POJO called Article with attributes:
 
-id
+   id
 
-description
+   description
 
-weight
+   weight
 
-volume
+   volume
 
 2. Create methods to create, delete and update a specific item.
 
